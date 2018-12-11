@@ -1,0 +1,34 @@
+{  
+  "name": "harrydingding/yii2-rbac",  
+  "description": "Yii2 rbac",  
+  "keywords": [  
+    "yii2",  
+    "rbac"  
+  ],  
+  "homepage": "https://github.com/harrydingding/yii2-rbac",  
+  "type": "yii2-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/harrydingding/yii2-rbac"  
+  },  
+  "authors": [  
+    {  
+      "name": "Harry Ding",  
+      "email": "harry.402@hotmail.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.4.0",  
+    "yiisoft/yii2": ">=2.0.6"  
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "harry\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}
