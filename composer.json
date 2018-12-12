@@ -25,7 +25,7 @@
   },  
   "autoload": {  
     "psr-4": {  
-      "harrydingding\\yii2-rbac\\": ""  
+      "harrydingding\\yii2-rbac\\": "src"  
     }  
   },  
   "config": {  
